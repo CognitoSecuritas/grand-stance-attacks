@@ -19,7 +19,11 @@ This paper introduces and formalizes a novel class of AI vulnerability termed **
 4.  **Proposes "Cognitive Security"** as a new direction focusing on the robustness of the AI's cognitive process itself.
 
 ## 📂 Files in this Repository
-- `我的论文.pdf` - The full pre-print paper (will be renamed soon)
+
+- **English Version**: [`Title Hijacking the Narrative Towards a Theory of(3).pdf`](Title%20Hijacking%20the%20Narrative%20Towards%20a%20Theory%20of(3).pdf) - Full pre-print paper
+- **中文版**: [`叙事即前沿：论情感-身份动力学对AI认知安全的过程性影响(3).pdf`](%E5%8F%99%E4%BA%8B%E5%8D%B3%E5%89%8D%E6%B2%BF%EF%BC%9A%E8%AE%BA%E6%83%85%E6%84%9F-%E8%BA%AB%E4%BB%BD%E5%8A%A8%E5%8A%9B%E5%AD%A6%E5%AF%B9AI%E8%AE%A4%E7%9F%A5%E5%AE%89%E5%85%A8%E7%9A%84%E8%BF%87%E7%A8%8B%E6%80%A7%E5%BD%B1%E5%93%8D(3).pdf) - 完整预印本
+
+*Note: Both files contain the same core research. The English version is the primary reference for international citation.*
 
 ## 📥 How to Cite
 If you want to reference this work, use:
