@@ -25,6 +25,11 @@ This paper introduces and formalizes a novel class of AI vulnerability termed **
 
 *Note: Both files contain the same core research. The English version is the primary reference for international citation.*
 
+## 🔬 Theoretical Extensions & Insights
+
+*   **[AI as Active Psychological Modeler](./AI_as_Active_Psychological_Modeler.md)** - Explores the **bidirectional cognitive interaction** model, where AI actively models the user's psychology during a “Grand Stance” dialogue, revealing a new attack surface.
+*   *(You can add your other `AI_as_Active_Evaluator.md` here later)*
+*   
 ## 📥 How to Cite
 If you want to reference this work, use:
 
